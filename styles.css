@@ -1,0 +1,192 @@
+
+
+.color-container {  
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px auto;  
+  width: 100%;
+  height: 650px;
+  background-color: rosybrown;  
+  cursor: pointer;
+  display: block;
+  
+  
+
+}
+
+.font-container {
+    border: 2px solid black;
+    display: block;  
+    padding: 10;
+    margin: 10px auto;  
+    width: 102%;  
+    height: 430px;       
+    text-align: center;
+    background-color: tan; 
+    cursor: pointer;   
+    
+                
+}
+
+.text-container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+    width: 100%;     
+    background-color: steelblue;    
+    cursor: pointer; 
+    text-align: center;
+     
+                
+     
+   
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+}
+
+.mediumseagreen {
+    background-color: #3CB371;
+    color: #000;
+    padding-top: 10px;
+    border: 2px solid #000000;
+    font-weight: bold;
+
+}
+
+.color-panel {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    width: 65%;
+    cursor: pointer;
+}
+
+body {
+  font-family: "Nunito sans", sans-serif;
+  margin: 0 10%;  
+}
+
+div {
+    display: block;
+    width: 100%;
+    cursor: pointer;
+   
+}
+
+.coral {
+    background-color: #FF7F50;
+    color: #000;
+    padding-top: 10px;
+    border: 2px solid #000000;
+    font-weight: bold;
+}
+
+.cadetblue {
+    background-color: #5F9EA0;
+    color: #000;
+    padding-top: 10px;
+    border: 2px solid #000000;
+    font-weight: bold;
+}
+
+
+.dodgerblue {
+    background-color: #1E90FF;
+    color: #000; 
+    padding-top: 10px;
+    border: 2px solid #000000;
+    font-weight: bold;
+}
+
+nav span {
+    display: inline-block;    
+    text-decoration: none; 
+    padding-left: 10px;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-top: 30px;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Poppins, sans-serif;
+    display: block;      
+       
+}
+
+
+ul  {
+  list-style-type: none;
+}
+
+
+
+span a {
+    color: burlywood;
+    text-decoration: none;     
+}
+
+.regular {
+  font-style: normal;  
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-container {
+    padding: 10px;
+    width: 100%;
+    
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+    
+}
+
+p {
+    display: block;
+
+}
+
+
+
+
+
+
+
